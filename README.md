@@ -1,5 +1,5 @@
 # Max-Life-Health-Insurance-Cross-Sell-Prediction
-**Project Summary:
+##Project Summary:
 
 ### **Introduction**
 In the competitive world of insurance, companies aim to identify potential customers who are most likely to purchase additional policies. This project, **Max Life Health Insurance Cross-Sell Prediction**, focuses on using machine learning to predict whether an existing customer is interested in purchasing a health insurance policy. By leveraging historical customer data, we can develop an accurate predictive model that helps the company improve its marketing strategies and boost sales.
